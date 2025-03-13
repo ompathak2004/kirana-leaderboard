@@ -25,10 +25,7 @@ Welcome to the **Kirana Leaderboard** project! This application is designed to e
 - MySQL server
 - Redis server
 
-### Setup
-
-#### Backend
-1. Clone the repository:
+### Clone the repository:
    ```bash
    git clone https://github.com/ompathak2004/kirana-leaderboard.git
    cd kirana-leaderboard/backend
