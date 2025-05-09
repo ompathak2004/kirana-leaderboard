@@ -3,7 +3,7 @@
 Welcome to the **Kirana Leaderboard** project! This application is designed to encourage Kirana store owners (2 million+ active users) to increase shelf visibility for an oats brand by uploading images of their shelves. The system counts oats packets, assigns scores, and maintains a real-time leaderboard using a scalable architecture with Firebase, MySQL, Redis, and Bull queues.
 
 ## Overview
-- **Purpose**: Inspired by the Kirana Club case study (https://kirana.club/case-study/increase-in-shelf-visibility-in-GT-for-oats-brand), this project incentivizes store owners to maximize oats packet visibility on shelves.
+- **Purpose**: Inspired by the Kirana Club case study (https://kirana.club/case-study/increase-in-shelf-visilbility-in-GT-for-oats-brand), this project incentivizes store owners to maximize oats packet visibility on shelves.
 - **Tech Stack**:
   - Frontend: React + TypeScript + Vite
   - Backend: Node.js + TypeScript + Express
